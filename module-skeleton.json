@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-catalog-flutter",
+  "capabilityKey": "liberusoftware/module-billing-catalog",
+  "presentation": "mobile-flutter",
+  "package": "module_billing_catalog_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/billing/nextjs/catalog.md",
+  "presentationPlan": "projects/billing/flutter/catalog.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
